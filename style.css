@@ -40,7 +40,7 @@ body{ background:#1A0035;font-family:Arial,Helvetica,sans-serif;}
 .testing .bd{padding-left:0;padding-right:0;padding-top:0;padding-bottom:.4rem}
 .testing .bd ul{padding-left:.4rem;padding-right:.4rem;padding-top:0;padding-bottom:0}
 .testing .bd li{*zoom:1;margin-bottom:.4rem;}
-.testing .bd .ms{float:left;font-size:.37rem;height:.8rem;line-height:.8rem;width:1.4rem;text-align:center;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;border-radius:.11rem;background:#180032;border:solid 1px #7A2FC1;margin-right:.3rem;color: #eee}
+.testing .bd .ms{float:left;font-size:.37rem;height:.8rem;line-height:.8rem;width:1.4rem;text-align:center;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;border-radius:.11rem;background:#180032;border:solid 1px #7A2FC1;margin-right:.3rem;color: #00ec20}
 .testing .bd .url{display:block;font-size:.40rem;height:.8rem;line-height:.8rem;text-align:center;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;border-radius:.11rem;background:#180032;border:solid 1px #7A2FC1;color: #eee;text-align: left;padding-left: .3rem}
 .testing .bd .btn-open{line-height:1;float:right;margin-left:.3rem;font-size:.35rem;height:.8rem;line-height:.82rem;display:block;text-align:center;border:0;border-radius:.11rem;background:#deb558;border:1px solid #deb558;}
 .testing .bd .btn-open a{display:block;padding-left:.4rem;padding-right:.4rem;padding-top:0;padding-bottom:0;color:#311d0f;font-weight: bold;}
