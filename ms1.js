@@ -19,13 +19,13 @@ function auto(url){
 		$('#lineMs3').html(str+'ms')
 	}
   if(url==autourl[4]){
-		$('#lineMs3').html(str+'ms')
+		$('#lineMs4').html(str+'ms')
 	}
   if(url==autourl[5]){
-		$('#lineMs3').html(str+'ms')
+		$('#lineMs5').html(str+'ms')
 	}
   if(url==autourl[6]){
-		$('#lineMs3').html(str+'ms')
+		$('#lineMs6').html(str+'ms')
 	}
 
 }
